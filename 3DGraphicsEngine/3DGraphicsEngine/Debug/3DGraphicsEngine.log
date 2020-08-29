@@ -1,0 +1,8 @@
+﻿  3DGraphicsEngine.cpp
+C:\Users\ababl\Desktop\First3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine.cpp(174,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ababl\Desktop\First3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine.cpp(174,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ababl\Desktop\First3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine.cpp(173,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ababl\Desktop\First3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine.cpp(173,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ababl\Desktop\First3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine.cpp(172,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ababl\Desktop\First3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine\3DGraphicsEngine.cpp(172,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3DGraphicsEngine.vcxproj -> C:\Users\ababl\Desktop\First3DGraphicsEngine\3DGraphicsEngine\Debug\3DGraphicsEngine.exe
